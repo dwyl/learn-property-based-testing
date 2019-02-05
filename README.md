@@ -260,3 +260,19 @@ end
 ```
 
 The more tests you run, the more confidence you can have in your code. You can even set this to an incredibly high number when you first run your tests, then set it back to normal when running them regularly on your CI.
+
+## Read More
+
+### Articles
+* https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
+* https://jeffkreeftmeijer.com/mix-proper/
+* http://whatdidilearn.info/2018/04/22/property-based-testing.html
+
+### Books
+* https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir
+
+### Videos
+* https://youtu.be/x2ckfhqB9nA?t=1964 - Keynote - José Valim - ElixirConf EU 2018
+* https://www.youtube.com/watch?v=p84DMv8TQuo - Property-based Testing is a Mindset - Andrea Leopardi - ElixirConf EU 2018
+* ElixirConf 2018 - Picking Properties to Test in Property Based Testing - Michael Stalker https://www.youtube.com/watch?v=OVLTHGaTi7k
+* ElixirConf 2018 - Sustainable Testing - Andrew Bennett - https://www.youtube.com/watch?v=9XRe1ce5eak
