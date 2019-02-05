@@ -57,7 +57,7 @@ There are a few other properties we could add for completeness, such as what sho
 
 So now we translate those properties into code. As mentioned above, we'll be using the StreamData library to generate test cases.
 
-The first thing we need to so is set up our test suite. Create a new elixir project using `mix new frame`, then put the following in your `test/frame_test.exs` file:
+The first thing we need to do is set up our test suite. Create a new elixir project using `mix new frame`, then put the following in your `test/frame_test.exs` file:
 
 ``` elixir
 defmodule FrameTest do
