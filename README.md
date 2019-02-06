@@ -14,7 +14,7 @@ For example, if you were writing some code to validate a credit card number, one
 
 ## What?
 
-Property Based Testing originated with [QuickCheck](https://en.wikipedia.org/wiki/QuickCheck), a Haskell library created in 1999. QuickCheck takes assertions about about logical properties that a program should fulfill, then generates test cases that try to fail these assertions.
+Property Based Testing originated with [QuickCheck](https://en.wikipedia.org/wiki/QuickCheck), a Haskell library created in 1999. QuickCheck takes assertions about logical properties that a program should fulfill, then generates test cases that try to fail these assertions.
 
 Many Property Based Testing libraries have been created since then, and the one we're going to be using is [StreamData](https://hexdocs.pm/stream_data/StreamData.html), which, at the time of writing is scheduled to be included in a future release of Elixir core.
 
